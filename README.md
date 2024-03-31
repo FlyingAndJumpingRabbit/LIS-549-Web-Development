@@ -9,6 +9,6 @@
  1. git pull
  2. **make some change**
  3. git add .
- 4. git commit -m "your commit message"
+ 4. git commit -m "what you did"
  5. git push origin main 
 
